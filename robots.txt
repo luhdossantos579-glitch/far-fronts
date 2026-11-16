@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thefarfronts.visionmediachannels.com/sitemap.xml
